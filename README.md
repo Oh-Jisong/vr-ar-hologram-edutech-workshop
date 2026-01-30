@@ -29,8 +29,8 @@
 - [`마포구립도서관 꿈을이루는작은도서관`](https://mplib.mapo.go.kr/libsmall/index.do)
 
 <p align="center">
-  <img src="assets/program(1).png" width="48%">
-  <img src="assets/program(2).png" width="48%">
+  <img src="assets/program(1).jpg" width="48%">
+  <img src="assets/program(2).jpg" width="48%">
 </p>
 
 ---
